@@ -1,0 +1,15 @@
+.header{
+    background: #f7ca18;
+    text-align: center;
+    font-weight: 900;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+img{
+    width: 15%;
+    border-radius: 50%;
+}

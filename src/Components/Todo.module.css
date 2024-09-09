@@ -1,0 +1,29 @@
+.todoText{
+    margin-top: 20px;
+    width: 94%;
+    margin-left: 3%;
+    font-weight: 600;
+    line-height: 1.9;
+    color: gray;
+    font-size: 19px;
+}
+
+.todoText a{
+    color: rgb(0, 60, 255);
+}
+.todoText a:hover{
+    color: rgb(0, 33, 141);
+    text-decoration: underline;
+}
+.todoText a:focus{
+    color: rgb(255, 217, 0);
+    text-decoration: underline;
+}
+.todoText a:active{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+.todobg{
+    background: url();
+}

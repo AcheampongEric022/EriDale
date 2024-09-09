@@ -1,0 +1,35 @@
+.item{
+    width: 94%;
+    margin-left: 3%;
+    color: #353935;
+    font-size: 25px;
+}
+
+.itemname{
+    font-weight: bold;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.line{
+    opacity: 0.3;
+}
+
+.delbutton{
+    float: right;
+    padding: 7px 15px;
+    border-radius: 7px;
+    color: red;
+    background: #FFD000;
+    outline: none;
+    cursor: pointer;
+    font-size: 25px;
+    border: none;
+    font-weight: bold;
+}
+
+.completed{
+    text-decoration: line-through;
+}
